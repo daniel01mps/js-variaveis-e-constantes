@@ -1,7 +1,7 @@
 let valor = 10; // nmuber
-let nome_completo = "Daniel" // string
-let nomeCompleto = "Cesar" // string
-let NomeCompleto = "Guilherme" // string
+let nome_completo = "Daniel" // string Snake case
+let nomeCompleto = "Cesar" // string Camel case
+let NomeCompleto = "Guilherme" // string Pascal case
 let verdadeiro = true; // boolean
 let falso = false; // boolean
 
@@ -21,8 +21,8 @@ const nomeDaturma = 'FS18';
 document.write("<br><br/>")
 document.write(nomeDaturma)
 
-// Operadores de atribuição
-//  =, +=, -=
+// Operadores de atribuicao
+//  =(Recebe), +=(Atribuidor Acrimental), -=(Atribuidor Decremental)
 let idade = 34;
 document.write("<br>");
 document.write(idade)
@@ -35,7 +35,7 @@ document.write("<br>");
 document.write(idade)
 
 // Operadores de aritméticos
-// +, -, *, /, %
+// +, -, *, /, % (Modal)
 document.write("<br>");
 document.write(2+1)
 document.write("<br>");
